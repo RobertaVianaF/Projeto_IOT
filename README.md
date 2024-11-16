@@ -16,8 +16,8 @@ O código feito para este projeto estará na pasta .zip em Código Do Projeto.
 
 O sistema desenvolvido utiliza a API **CallMeBot** para comunicação via protocolo *MQTT*. Sendo tais tópicos:
 
-- **Inicio do sistema:**Logo que o sistema é ligado, chegará uma mensagem via WhatsApp informando o seu início.
-- **Detecção:**Quando algum gás tóxico é detectado, chegará, também via WhatsApp, um alerta imediato.
+- **Inicio do sistema:** Logo que o sistema é ligado, chegará uma mensagem via WhatsApp informando o seu início.
+- **Detecção:** Quando algum gás tóxico é detectado, chegará, também via WhatsApp, um alerta imediato.
 
   ## Protocolo MQTT e Comunicação TCP/IP
 

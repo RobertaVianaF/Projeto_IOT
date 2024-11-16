@@ -25,4 +25,7 @@ A comunicação do sistema é feita pela rede Wi-Fi (TCP/IP) e utiliza o protoco
 1. **Credenciais do Wi-Fi**: Configure seu `wifi_ssid` e `wifi_senha` para conexão com a internet.
 2. **Credenciais do CallMeBot**: Configure seu `numero de telefone` e `api_key` para autenticação MQTT.
 
+## Acesso do vídeo no Youtube
+- Acesse o link para visualizar: https://youtu.be/qZK4po9SEk0
+
 
